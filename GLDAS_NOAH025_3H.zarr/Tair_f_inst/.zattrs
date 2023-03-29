@@ -1,0 +1,14 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "lat",
+        "lon"
+    ],
+    "cell_methods": "time: point",
+    "long_name": "Temperature",
+    "missing_value": -9999.0,
+    "standard_name": "air_temperature",
+    "units": "K",
+    "vmax": 316.70831298828125,
+    "vmin": 222.22830200195312
+}

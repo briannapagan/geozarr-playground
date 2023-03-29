@@ -1,0 +1,14 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "lat",
+        "lon"
+    ],
+    "cell_methods": "time: point",
+    "long_name": "Snow depth",
+    "missing_value": -9999.0,
+    "standard_name": "surface_snow_thickness",
+    "units": "m",
+    "vmax": 438.30609130859375,
+    "vmin": 0.0
+}

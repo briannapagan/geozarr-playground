@@ -1,0 +1,14 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "lat",
+        "lon"
+    ],
+    "cell_methods": "time: point",
+    "long_name": "Root zone soil moisture",
+    "missing_value": -9999.0,
+    "standard_name": "root_zone_soil_moisture",
+    "units": "kg m-2",
+    "vmax": 903.6281127929688,
+    "vmin": 2.0000898838043213
+}

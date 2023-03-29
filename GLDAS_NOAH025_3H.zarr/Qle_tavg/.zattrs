@@ -1,0 +1,14 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "lat",
+        "lon"
+    ],
+    "cell_methods": "time: mean",
+    "long_name": "Latent heat net flux",
+    "missing_value": -9999.0,
+    "standard_name": "surface_upward_latent_heat_flux",
+    "units": "W m-2",
+    "vmax": 691.0987548828125,
+    "vmin": -45.171226501464844
+}

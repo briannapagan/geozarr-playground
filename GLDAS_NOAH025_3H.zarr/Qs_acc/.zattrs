@@ -1,0 +1,14 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "lat",
+        "lon"
+    ],
+    "cell_methods": "time: sum",
+    "long_name": "Storm surface runoff",
+    "missing_value": -9999.0,
+    "standard_name": "surface_runoff_amount",
+    "units": "kg m-2",
+    "vmax": 18.928800582885742,
+    "vmin": 0.0
+}

@@ -1,0 +1,14 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "lat",
+        "lon"
+    ],
+    "cell_methods": "time: mean",
+    "long_name": "Canopy water evaporation",
+    "missing_value": -9999.0,
+    "standard_name": "evaporation_flux_from_canopy",
+    "units": "W m-2",
+    "vmax": 503.32000732421875,
+    "vmin": 0.0
+}

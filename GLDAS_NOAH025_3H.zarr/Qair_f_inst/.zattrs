@@ -1,0 +1,14 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "lat",
+        "lon"
+    ],
+    "cell_methods": "time: point",
+    "long_name": "Specific humidity",
+    "missing_value": -9999.0,
+    "standard_name": "specific_humidity",
+    "units": "kg kg-1",
+    "vmax": 0.02115384303033352,
+    "vmin": 2.384381696174387e-05
+}

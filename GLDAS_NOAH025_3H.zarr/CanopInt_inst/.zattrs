@@ -1,0 +1,14 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "lat",
+        "lon"
+    ],
+    "cell_methods": "time: point",
+    "long_name": "Plant canopy surface water",
+    "missing_value": -9999.0,
+    "standard_name": "canopy_water_amount",
+    "units": "kg m-2",
+    "vmax": 0.5,
+    "vmin": 0.0
+}

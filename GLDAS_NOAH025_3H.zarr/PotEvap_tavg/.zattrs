@@ -1,0 +1,14 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "lat",
+        "lon"
+    ],
+    "cell_methods": "time: mean",
+    "long_name": "Potential evaporation rate",
+    "missing_value": -9999.0,
+    "standard_name": "potential_evaporation_flux",
+    "units": "W m-2",
+    "vmax": 1219.8487548828125,
+    "vmin": -45.171226501464844
+}

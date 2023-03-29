@@ -1,0 +1,14 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "lat",
+        "lon"
+    ],
+    "cell_methods": "time: point",
+    "long_name": "Wind speed",
+    "missing_value": -9999.0,
+    "standard_name": "wind_speed",
+    "units": "m s-1",
+    "vmax": 21.107500076293945,
+    "vmin": 0.007499996572732925
+}

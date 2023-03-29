@@ -1,0 +1,14 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "lat",
+        "lon"
+    ],
+    "cell_methods": "time: point",
+    "long_name": "Soil temperature",
+    "missing_value": -9999.0,
+    "standard_name": "soil_temperature",
+    "units": "K",
+    "vmax": 309.899169921875,
+    "vmin": 245.8591766357422
+}

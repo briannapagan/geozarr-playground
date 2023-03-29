@@ -1,0 +1,14 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "lat",
+        "lon"
+    ],
+    "cell_methods": "time: point",
+    "long_name": "Average Surface Skin temperature",
+    "missing_value": -9999.0,
+    "standard_name": "surface_temperature",
+    "units": "K",
+    "vmax": 328.8056945800781,
+    "vmin": 212.4456787109375
+}

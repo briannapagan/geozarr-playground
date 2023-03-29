@@ -1,0 +1,14 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "lat",
+        "lon"
+    ],
+    "cell_methods": "time: mean",
+    "long_name": "Transpiration",
+    "missing_value": -9999.0,
+    "standard_name": "transpiration_flux_from_veg",
+    "units": "W m-2",
+    "vmax": 569.260009765625,
+    "vmin": 0.0
+}

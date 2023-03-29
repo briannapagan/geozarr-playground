@@ -1,0 +1,14 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "lat",
+        "lon"
+    ],
+    "cell_methods": "time: mean",
+    "long_name": "Heat flux",
+    "missing_value": -9999.0,
+    "standard_name": "downward_heat_flux_in_soil",
+    "units": "W m-2",
+    "vmax": 285.87841796875,
+    "vmin": -161.4015655517578
+}

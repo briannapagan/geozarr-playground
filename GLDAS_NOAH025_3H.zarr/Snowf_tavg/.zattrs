@@ -1,0 +1,14 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "lat",
+        "lon"
+    ],
+    "cell_methods": "time: mean",
+    "long_name": "Snow precipitation rate",
+    "missing_value": -9999.0,
+    "standard_name": "snowfall_flux",
+    "units": "kg m-2 s-1",
+    "vmax": 0.0029235000256448984,
+    "vmin": 0.0
+}

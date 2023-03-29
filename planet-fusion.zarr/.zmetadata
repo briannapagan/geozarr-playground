@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        ".zattrs": {},
+        ".zgroup": {
+            "zarr_format": 2
+        },
+        "band/.zarray": {
+            "chunks": [
+                4
+            ],
+            "compressor": {
+                "blocksize": 0,
+                "clevel": 5,
+                "cname": "lz4",
+                "id": "blosc",
+                "shuffle": 1
+            },
+            "dtype": "<U5",
+            "fill_value": null,
+            "filters": null,
+            "order": "C",
+            "shape": [
+                4
+            ],
+            "zarr_format": 2
+        },
+        "band/.zattrs": {
+            "_ARRAY_DIMENSIONS": [
+                "band"
+            ]
+        },
+        "datetime/.zarray": {
+            "chunks": [
+                365
+            ],
+            "compressor": {
+                "blocksize": 0,
+                "clevel": 5,
+                "cname": "lz4",
+                "id": "blosc",
+                "shuffle": 1
+            },
+            "dtype": "<i8",
+            "fill_value": null,
+            "filters": null,
+            "order": "C",
+            "shape": [
+                365
+            ],
+            "zarr_format": 2
+        },
+        "datetime/.zattrs": {
+            "_ARRAY_DIMENSIONS": [
+                "datetime"
+            ],
+            "calendar": "proleptic_gregorian",
+            "units": "days since 2021-01-01 00:00:00"
+        },
+        "sr/.zarray": {
+            "chunks": [
+                365,
+                4,
+                32,
+                32
+            ],
+            "compressor": {
+                "blocksize": 0,
+                "clevel": 3,
+                "cname": "zstd",
+                "id": "blosc",
+                "shuffle": 2
+            },
+            "dtype": "<i2",
+            "fill_value": null,
+            "filters": null,
+            "order": "C",
+            "shape": [
+                365,
+                4,
+                256,
+                256
+            ],
+            "zarr_format": 2
+        },
+        "sr/.zattrs": {
+            "_ARRAY_DIMENSIONS": [
+                "datetime",
+                "band",
+                "row",
+                "col"
+            ],
+            "_CRS": "PROJCS[\"WGS 84 / UTM zone 14N\",GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",-99],PARAMETER[\"scale_factor\",0.9996],PARAMETER[\"false_easting\",500000],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"EPSG\",\"32614\"]]",
+            "_TRANSFORM": [
+                3.0,
+                0.0,
+                696000.0,
+                0.0,
+                -3.0,
+                4536000.0
+            ]
+        }
+    },
+    "zarr_consolidated_format": 1
+}

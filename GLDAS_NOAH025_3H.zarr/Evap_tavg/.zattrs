@@ -1,0 +1,14 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "lat",
+        "lon"
+    ],
+    "cell_methods": "time: mean",
+    "long_name": "Evapotranspiration",
+    "missing_value": -9999.0,
+    "standard_name": "water_evaporation_flux",
+    "units": "kg m-2 s-1",
+    "vmax": 0.00027633857098408043,
+    "vmin": -1.7761434719432145e-05
+}

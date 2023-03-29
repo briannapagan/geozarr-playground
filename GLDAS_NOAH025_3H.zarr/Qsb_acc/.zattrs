@@ -1,0 +1,14 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "lat",
+        "lon"
+    ],
+    "cell_methods": "time: sum",
+    "long_name": "Baseflow-groundwater runoff",
+    "missing_value": -9999.0,
+    "standard_name": "subsurface_runoff_amount",
+    "units": "kg m-2",
+    "vmax": 8.28145980834961,
+    "vmin": 0.0
+}
